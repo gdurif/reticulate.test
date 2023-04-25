@@ -3,3 +3,4 @@
 ^LICENSE\.md$
 ^test_ok\.R$
 ^test_nok\.R$
+^test_simple_import\.R$
